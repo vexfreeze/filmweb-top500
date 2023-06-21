@@ -1,0 +1,500 @@
+﻿1. Skazani na Shawshank (1994) Frank Darabont
+2. Nietykalni (2011) Olivier Nakache, Éric Toledano
+3. Zielona mila (1999) Frank Darabont
+4. Ojciec chrzestny (1972) Francis Ford Coppola
+5. Dwunastu gniewnych ludzi (1957) Sidney Lumet
+6. Forrest Gump (1994) Robert Zemeckis
+7. Lot nad kukułczym gniazdem (1975) Miloš Forman
+8. Ojciec chrzestny II (1974) Francis Ford Coppola
+9. Władca Pierścieni: Powrót króla (2003) Peter Jackson
+10. Lista Schindlera (1993) Steven Spielberg
+11. Pulp Fiction (1994) Quentin Tarantino
+12. Życie jest piękne (1997) Roberto Benigni
+13. Siedem (1995) David Fincher
+14. Władca Pierścieni: Dwie wieże (2002) Peter Jackson
+15. Podziemny krąg (1999) David Fincher
+16. Chłopcy z ferajny (1990) Martin Scorsese
+17. Pianista (2002) Roman Polański
+18. Joker (2019) Todd Phillips
+19. Piękny umysł (2001) Ron Howard
+20. Django (2012) Quentin Tarantino
+21. Incepcja (2010) Christopher Nolan
+22. Milczenie owiec (1991) Jonathan Demme
+23. Król Lew (1994) Rob Minkoff, Roger Allers
+24. Człowiek z blizną (1983) Brian De Palma
+25. Gran Torino (2008) Clint Eastwood
+26. Coco (2017) Lee Unkrich, Adrian Molina
+27. Wyspa tajemnic (2010) Martin Scorsese
+28. Leon zawodowiec (1994) Luc Besson
+29. Więzień nienawiści (1998) Tony Kaye
+30. Green Book (2018) Peter Farrelly
+31. Gladiator (2000) Ridley Scott
+32. Szeregowiec Ryan (1998) Steven Spielberg
+33. Braveheart - Waleczne Serce (1995) Mel Gibson
+34. Whiplash (2014) Damien Chazelle
+35. Chłopiec w pasiastej piżamie (2008) Mark Herman
+36. Buntownik z wyboru (1997) Gus Van Sant
+37. Przełęcz ocalonych (2016) Mel Gibson
+38. Czas Apokalipsy (1979) Francis Ford Coppola
+39. Zapach kobiety (1992) Martin Brest
+40. Prestiż (2006) Christopher Nolan
+41. Gwiezdne wojny: Część V - Imperium kontratakuje (1980) Irvin Kershner
+42. Avengers: Wojna bez granic (2018) Anthony Russo, Joe Russo
+43. Dobry, zły i brzydki (1966) Sergio Leone
+44. Gwiezdne wojny: Część VI - Powrót Jedi (1983) Richard Marquand
+45. Dawno temu w Ameryce (1984) Sergio Leone
+46. Służące (2011) Tate Taylor
+47. Kasyno (1995) Martin Scorsese
+48. W pogoni za szczęściem (2006) Gabriele Muccino
+49. Mroczny Rycerz (2008) Christopher Nolan
+50. Władca Pierścieni: Drużyna Pierścienia (2001) Peter Jackson
+51. Gorączka (1995) Michael Mann
+52. Parasite (2019) Joon-ho Bong
+53. Amadeusz (1984) Miloš Forman
+54. Pluton (1986) Oliver Stone
+55. Bękarty wojny (2009) Quentin Tarantino, Eli Roth
+56. Pamiętnik (2004) Nick Cassavetes
+57. Infiltracja (2006) Martin Scorsese
+58. Spirited Away: W krainie Bogów (2001) Hayao Miyazaki
+59. Bogowie (2014) Łukasz Palkowski
+60. Mój przyjaciel Hachiko (2009) Lasse Hallström
+61. Przebudzenia (1990) Penny Marshall
+62. Psychoza (1960) Alfred Hitchcock
+63. Łowca jeleni (1978) Michael Cimino
+64. Siedem dusz (2008) Gabriele Muccino
+65. Avengers: Koniec gry (2019) Anthony Russo, Joe Russo
+66. Miasto Boga (2002) Fernando Meirelles
+67. Interstellar (2014) Christopher Nolan
+68. Przekręt (2000) Guy Ritchie
+69. Rain Man (1988) Barry Levinson
+70. Adwokat diabła (1997) Taylor Hackford
+71. Monty Python i Święty Graal (1975) Terry Gilliam, Terry Jones
+72. Wściekłe psy (1992) Quentin Tarantino
+73. Full Metal Jacket (1987) Stanley Kubrick
+74. Ojciec chrzestny III (1990) Francis Ford Coppola
+75. Trzy billboardy za Ebbing, Missouri (2017) Martin McDonagh
+76. Gwiezdne wojny: Część IV - Nowa nadzieja (1977) George Lucas
+77. Zwierzogród (2016) Byron Howard, Rich Moore
+78. Cinema Paradiso (1988) Giuseppe Tornatore
+79. Contratiempo. Niewidzialny gość (2016) Oriol Paulo
+80. Najlepszy (2017) Łukasz Palkowski
+81. Spider-Man Uniwersum (2018) Bob Persichetti, Peter Ramsey
+82. Mechaniczna pomarańcza (1971) Stanley Kubrick
+83. Bohemian Rhapsody (2018) Bryan Singer
+84. Żądło (1973) George Roy Hill
+85. Pan od muzyki (2004) Christophe Barratier
+86. Wróg u bram (2001) Jean-Jacques Annaud
+87. Złap mnie, jeśli potrafisz (2002) Steven Spielberg
+88. Labirynt (2013) Denis Villeneuve
+89. Klaus (2019) Sergio Pablos
+90. Koneser (2013) Giuseppe Tornatore
+91. Requiem dla snu (2000) Darren Aronofsky
+92. Jak wytresować smoka (2010) Dean DeBlois, Chris Sanders
+93. Siedmiu samurajów (1954) Akira Kurosawa
+94. Żywot Briana (1979) Terry Jones
+95. Księżniczka Mononoke (1997) Hayao Miyazaki
+96. Filadelfia (1993) Jonathan Demme
+97. Jak rozpętałem drugą wojnę światową (1969) Tadeusz Chmielewski
+98. Ojciec (2020) Florian Zeller
+99. Przerwana lekcja muzyki (1999) James Mangold
+100. Wszystko za życie (2007) Sean Penn
+101. Ruchomy zamek Hauru (2004) Hayao Miyazaki
+102. Obcy - 8. pasażer "Nostromo" (1979) Ridley Scott
+103. Życie Carlita (1993) Brian De Palma
+104. Shrek (2001) Andrew Adamson, Vicky Jenson
+105. Uśpieni (1996) Barry Levinson
+106. Szósty zmysł (1999) M. Night Shyamalan
+107. Człowiek w ogniu (2004) Tony Scott
+108. Sami swoi (1967) Sylwester Chęciński
+109. Skrzypek na dachu (1971) Norman Jewison
+110. Top Gun: Maverick (2022) Joseph Kosinski
+111. Taksówkarz (1976) Martin Scorsese
+112. Chłopaki nie płaczą (2000) Olaf Lubaszenko
+113. Gra (1997) David Fincher
+114. Lśnienie (1980) Stanley Kubrick
+115. Prawo zemsty (2009) F. Gary Gray
+116. Sens życia wg Monty Pythona (1983) Terry Gilliam, Terry Jones
+117. Lęk pierwotny (1996) Gregory Hoblit
+118. Stowarzyszenie Umarłych Poetów (1989) Peter Weir
+119. Pokój (2015) Lenny Abrahamson
+120. Tylko nie mów nikomu (2019) Tomasz Sekielski
+121. Dzień świra (2002) Marek Koterski
+122. Ściana (1982) Alan Parker
+123. Pół żartem, pół serio (1959) Billy Wilder
+124. Pogorzelisko (2010) Denis Villeneuve
+125. Przeminęło z wiatrem (1939) George Cukor, Sam Wood
+126. Porachunki (1998) Guy Ritchie
+127. Seksmisja (1983) Juliusz Machulski
+128. Za kilka dolarów więcej (1965) Sergio Leone
+129. Przesłuchanie (1982) Ryszard Bugajski
+130. Miś (1980) Stanisław Bareja
+131. Katedra (2002) Tomasz Bagiński
+132. Helikopter w ogniu (2001) Ridley Scott
+133. Efekt motyla (2004) J. Mackye Gruber, Eric Bress
+134. Zaginiona dziewczyna (2014) David Fincher
+135. Trainspotting (1996) Danny Boyle
+136. Lektor (2008) Stephen Daldry
+137. Le Mans '66 (2019) James Mangold
+138. Blow (2001) Ted Demme
+139. Grobowiec świetlików (1988) Isao Takahata
+140. Mandarynki (2013) Zaza Urushadze
+141. Jak zostać królem (2010) Tom Hooper
+142. Bez przebaczenia (1992) Clint Eastwood
+143. Wyścig (2013) Ron Howard
+144. Piraci z Karaibów: Klątwa Czarnej Perły (2003) Gore Verbinski
+145. Za wszelką cenę (2004) Clint Eastwood
+146. Piraci z Karaibów: Skrzynia umarlaka (2006) Gore Verbinski
+147. Witaj w klubie (2013) Jean-Marc Vallée
+148. Grand Budapest Hotel (2014) Wes Anderson
+149. American Gangster (2007) Ridley Scott
+150. Iluzjonista (2006) Neil Burger
+151. Co gryzie Gilberta Grape'a (1993) Lasse Hallström
+152. Polowanie (2012) Thomas Vinterberg
+153. Twój Vincent (2017) Dorota Kobiela, Hugh Welchman
+154. Święci z Bostonu (1999) Troy Duffy
+155. Misja (1986) Roland Joffé
+156. Samsara (2011) Ron Fricke
+157. Kiler (1997) Juliusz Machulski
+158. Róża (2011) Wojciech Smarzowski
+159. Harry Potter i Insygnia Śmierci: Część II (2011) David Yates
+160. Casablanca (1942) Michael Curtiz
+161. Sherlock Holmes (2009) Guy Ritchie
+162. Wilk z Wall Street (2013) Martin Scorsese
+163. Kafarnaum (2018) Nadine Labaki
+164. Symetria (2003) Konrad Niewolski
+165. Oszukana (2008) Clint Eastwood
+166. David Attenborough: Życie na naszej planecie (2020) Alastair Fothergill, Jonathan Hughes
+167. Gadające głowy (1980) Krzysztof Kieślowski
+168. Edward Nożycoręki (1990) Tim Burton
+169. Krótki film o zabijaniu (1987) Krzysztof Kieślowski
+170. Wołyń (2016) Wojciech Smarzowski
+171. Absolwent (1967) Mike Nichols
+172. Mroczny Rycerz powstaje (2012) Christopher Nolan
+173. Prawo Bronxu (1993) Robert De Niro
+174. Wojownik (2011) Gavin O'Connor
+175. W głowie się nie mieści (2015) Pete Docter
+176. Rocky (1976) John G. Avildsen
+177. W imię ojca (1993) Jim Sheridan
+178. Piraci z Karaibów: Na krańcu świata (2007) Gore Verbinski
+179. Poszukiwacze zaginionej Arki (1981) Steven Spielberg
+180. Śniadanie u Tiffany'ego (1961) Blake Edwards
+181. Na noże (2019) Rian Johnson
+182. Donnie Brasco (1997) Mike Newell
+183. Thor: Ragnarok (2017) Taika Waititi
+184. Kimi no Na wa. (2016) Makoto Shinkai
+185. Ciekawy przypadek Benjamina Buttona (2008) David Fincher
+186. Sam (2001) Jessie Nelson
+187. Imię róży (1986) Jean-Jacques Annaud
+188. Dług (1999) Krzysztof Krauze
+189. Pewnego razu na Dzikim Zachodzie (1968) Sergio Leone
+190. Trener (2005) Thomas Carter
+191. Tańczący z wilkami (1990) Kevin Costner
+192. Sekrety morza (2014) Tomm Moore
+193. Indiana Jones i ostatnia krucjata (1989) Steven Spielberg
+194. Życie za życie (2003) Alan Parker
+195. Łowca androidów (1982) Ridley Scott
+196. Dziewczyna z tatuażem (2011) David Fincher
+197. Kapitan Phillips (2013) Paul Greengrass
+198. Donnie Darko (2001) Richard Kelly
+199. Wielki Mike. The Blind Side (2009) John Lee Hancock
+200. Czarny łabędź (2010) Darren Aronofsky
+201. Ip Man (2008) Wilson Yip
+202. Harry Potter i więzień Azkabanu (2004) Alfonso Cuarón
+203. Ghost in the Shell (1995) Mamoru Oshii
+204. Okno na podwórze (1954) Alfred Hitchcock
+205. Mulan (1998) Barry Cook, Tony Bancroft
+206. Boże Ciało (2019) Jan Komasa
+207. Chinatown (1974) Roman Polański
+208. Wywiad z wampirem (1994) Neil Jordan
+209. Jak wytresować smoka 2 (2014) Dean DeBlois
+210. Mary i Max (2009) Adam Elliot
+211. Przypadek (1981) Krzysztof Kieślowski
+212. 2001: Odyseja kosmiczna (1968) Stanley Kubrick
+213. Persona (1966) Ingmar Bergman
+214. Vabank (1981) Juliusz Machulski
+215. Imperium Słońca (1987) Steven Spielberg
+216. Doskonały świat (1993) Clint Eastwood
+217. Doktor Strangelove, lub jak przestałem się martwić i pokochałem bombę (1964) Stanley Kubrick
+218. Deszczowa piosenka (1952) Stanley Donen, Gene Kelly
+219. Psy (1992) Władysław Pasikowski
+220. Bogowie ulicy (2012) David Ayer
+221. Ultimatum Bourne'a (2007) Paul Greengrass
+222. Cudowny chłopak (2017) Stephen Chbosky
+223. Wielka Szóstka (2014) Don Hall, Chris Williams
+224. Uprowadzona (2008) Pierre Morel
+225. 9 kompania (2005) Fedor Bondarchuk
+226. Ostatni samuraj (2003) Edward Zwick
+227. Obdarowani (2017) Marc Webb
+228. Cud w celi nr 7 (2019) Mehmet Ada Öztekin
+229. Podejrzani (1995) Bryan Singer
+230. Rzeka tajemnic (2003) Clint Eastwood
+231. Rzymskie wakacje (1953) William Wyler
+232. American Beauty (1999) Sam Mendes
+233. Ziemia obiecana (1974) Andrzej Wajda
+234. Nietykalni (1987) Brian De Palma
+235. Wściekły Byk (1980) Martin Scorsese
+236. K-PAX (2001) Iain Softley
+237. Joe Black (1998) Martin Brest
+238. Ray (2004) Taylor Hackford
+239. Pociąg (1959) Jerzy Kawalerowicz
+240. Hannibal (2001) Ridley Scott
+241. Nie ma mocnych (1974) Sylwester Chęciński
+242. Hobbit: Niezwykła podróż (2012) Peter Jackson
+243. Senna (2010) Asif Kapadia
+244. Dobrze się kłamie w miłym towarzystwie (2016) Paolo Genovese
+245. Nienawistna ósemka (2015) Quentin Tarantino
+246. Iron Man (2008) Jon Favreau
+247. Tańcząc w ciemnościach (2000) Lars von Trier
+248. Jeniec: Tak daleko jak nogi poniosą (2001) Hardy Martins
+249. Mój sąsiad Totoro (1988) Hayao Miyazaki
+250. Duma i uprzedzenie (2005) Joe Wright
+251. Jojo Rabbit (2019) Taika Waititi
+252. Chce się żyć (2013) Maciej Pieprzyca
+253. Wyznania gejszy (2005) Rob Marshall
+254. Jutro będziemy szczęśliwi (2016) Hugo Gélin
+255. Epoka lodowcowa (2002) Chris Wedge
+256. Noc na Ziemi (1991) Jim Jarmusch
+257. Diuna (2021) Denis Villeneuve
+258. Aż poleje się krew (2007) Paul Thomas Anderson
+259. Terminator 2: Dzień sądu (1991) James Cameron
+260. Do utraty sił (2015) Antoine Fuqua
+261. Hair (1979) Miloš Forman
+262. Gwiezdne wojny: Część III - Zemsta Sithów (2005) George Lucas
+263. Matrix (1999) Lilly Wachowski, Lana Wachowski
+264. Baraka (1992) Ron Fricke
+265. Dziecko Rosemary (1968) Roman Polański
+266. Dyktator (1940) Charlie Chaplin
+267. Motylek (1973) Franklin J. Schaffner
+268. Czarny kot, biały kot (1998) Emir Kusturica
+269. Sherlock Holmes: Gra cieni (2011) Guy Ritchie
+270. Zaplątani (2010) Nathan Greno, Byron Howard
+271. Sól ziemi (2014) Juliano Ribeiro Salgado, Wim Wenders
+272. Kwiat pustyni (2009) Sherry Hormann
+273. Człowiek słoń (1980) David Lynch
+274. Siła i honor (2000) George Tillman Jr.
+275. Kabaret (1972) Bob Fosse
+276. Twardowsky 2.0 (2016) Tomasz Bagiński
+277. Choć goni nas czas (2007) Rob Reiner
+278. Amores perros (2000) Alejandro González Iñárritu
+279. Tożsamość Bourne'a (2002) Doug Liman
+280. Hobbit: Pustkowie Smauga (2013) Peter Jackson
+281. Pan życia i śmierci (2005) Andrew Niccol
+282. Znachor (1981) Jerzy Hoffman
+283. Obcy - decydujące starcie (1986) James Cameron
+284. Harry Potter i Czara Ognia (2005) Mike Newell
+285. Polowanie na Czerwony Październik (1990) John McTiernan
+286. Wichry namiętności (1994) Edward Zwick
+287. Sztuka spadania (2004) Tomasz Bagiński
+288. Słaby punkt (2007) Gregory Hoblit
+289. Jabłka Adama (2005) Anders Thomas Jensen
+290. Wielkie piękno (2013) Paolo Sorrentino
+291. To nie jest kraj dla starych ludzi (2007) Joel Coen, Ethan Coen
+292. Miasto gniewu (2004) Paul Haggis
+293. Obywatel Kane (1941) Orson Welles
+294. WALL·E (2008) Andrew Stanton
+295. Paperman (2012) John Kahrs
+296. Jestem Bogiem (2011) Neil Burger
+297. Oldboy (2003) Chan-wook Park
+298. Logan: Wolverine (2017) James Mangold
+299. Marsjanin (2015) Ridley Scott
+300. Tamte dni, tamte noce (2017) Luca Guadagnino
+301. Człowiek ringu (2005) Ron Howard
+302. Billy Elliot (2000) Stephen Daldry
+303. Był sobie pies (2017) Lasse Hallström
+304. Ścigany (1993) Andrew Davis
+305. To wspaniałe życie (1946) Frank Capra
+306. Brudny Harry (1971) Don Siegel
+307. Cyrk motyli (2009) Joshua Weigel
+308. 21 gramów (2003) Alejandro González Iñárritu
+309. Snajper (2014) Clint Eastwood
+310. Podaj dalej (2000) Mimi Leder
+311. Marzyciel (2004) Marc Forster
+312. Fighter (2010) David O. Russell
+313. Cast Away - poza światem (2000) Robert Zemeckis
+314. Sugar Man (2012) Malik Bendjelloul
+315. Upadek (1993) Joel Schumacher
+316. Batman - Początek (2005) Christopher Nolan
+317. Czas na miłość (2013) Richard Curtis
+318. Ostatnia rodzina (2016) Jan P. Matuszyński
+319. Annie Hall (1977) Woody Allen
+320. Sędzia (2014) David Dobkin
+321. A teraz coś z zupełnie innej beczki (1971) Ian MacNaughton
+322. Mama (2014) Xavier Dolan
+323. Czerwony smok (2002) Brett Ratner
+324. Z dystansu (2011) Tony Kaye
+325. Plan doskonały (2006) Spike Lee
+326. Deadpool (2016) Tim Miller
+327. Duża ryba (2003) Tim Burton
+328. Trzy kolory: Niebieski (1993) Krzysztof Kieślowski
+329. To właśnie miłość (2003) Richard Curtis
+330. Nóż w wodzie (1961) Roman Polański
+331. Amator (1979) Krzysztof Kieślowski
+332. Rękopis znaleziony w Saragossie (1964) Wojciech Has
+333. Niebezpieczne związki (1988) Stephen Frears
+334. Krótki film o miłości (1988) Krzysztof Kieślowski
+335. Nienawiść (1995) Mathieu Kassovitz
+336. Zimna wojna (2018) Paweł Pawlikowski
+337. Misery (1990) Rob Reiner
+338. Fortepian (1993) Jane Campion
+339. Dogville (2003) Lars von Trier
+340. Trzy kolory: Czerwony (1994) Krzysztof Kieślowski
+341. Okręt (1981) Wolfgang Petersen
+342. Hotel Ruanda (2004) Terry George
+343. Piękna i Bestia (1991) Kirk Wise, Gary Trousdale
+344. Mechanik (2004) Brad Anderson
+345. Underground (1995) Emir Kusturica
+346. Amelia (2001) Jean-Pierre Jeunet
+347. Bez mojej zgody (2009) Nick Cassavetes
+348. Czas zabijania (1996) Joel Schumacher
+349. Manchester by the Sea (2016) Kenneth Lonergan
+350. Memento (2000) Christopher Nolan
+351. Fargo (1996) Ethan Coen, Joel Coen
+352. 1917 (2019) Sam Mendes
+353. Nie lubię poniedziałku (1971) Tadeusz Chmielewski
+354. Wesele (2004) Wojciech Smarzowski
+355. Siódma pieczęć (1957) Ingmar Bergman
+356. Harry Potter i Insygnia Śmierci: Część I (2010) David Yates
+357. Dzikie historie (2014) Damián Szifrón
+358. Teoria wszystkiego (2014) James Marsh
+359. Ocean's Eleven: Ryzykowna gra (2001) Steven Soderbergh
+360. 12 małp (1995) Terry Gilliam
+361. Tajemnice Los Angeles (1997) Curtis Hanson
+362. Życie na podsłuchu (2006) Florian Henckel von Donnersmarck
+363. Krucjata Bourne'a (2004) Paul Greengrass
+364. Thelma i Louise (1991) Ridley Scott
+365. Strażnicy Galaktyki: Volume 3 (2023) James Gunn
+366. Deadpool 2 (2018) David Leitch
+367. Krwawy diament (2006) Edward Zwick
+368. 300 (2006) Zack Snyder
+369. Jestem legendą (2007) Francis Lawrence
+370. Gnijąca panna młoda (2005) Tim Burton, Mike Johnson
+371. Spotlight (2015) Tom McCarthy
+372. Mustang z Dzikiej Doliny (2002) Lorna Cook, Kelly Asbury
+373. Szklana pułapka (1988) John McTiernan
+374. Harry Potter i Kamień Filozoficzny (2001) Chris Columbus
+375. Kraina lodu (2013) Chris Buck, Jennifer Lee
+376. Bulwar Zachodzącego Słońca (1950) Billy Wilder
+377. August Rush (2007) Kirsten Sheridan
+378. Lion. Droga do domu (2016) Garth Davis
+379. Spider-Man: Bez drogi do domu (2021) Jon Watts
+380. Mały Książę (2015) Mark Osborne
+381. Ostatni Mohikanin (1992) Michael Mann
+382. Harry Potter i Książę Półkrwi (2009) David Yates
+383. Dzień próby (2001) Antoine Fuqua
+384. Urodzeni mordercy (1994) Oliver Stone
+385. Morderstwo pierwszego stopnia (1995) Marc Rocco
+386. Strażnicy Galaktyki vol. 2 (2017) James Gunn
+387. Twardowsky (2015) Tomasz Bagiński
+388. Przełamując fale (1996) Lars von Trier
+389. Miasteczko Halloween (1993) Henry Selick
+390. Za garść dolarów (1964) Sergio Leone
+391. Persepolis (2007) Vincent Paronnaud, Marjane Satrapi
+392. The Maker (2011) Christopher Kezelos
+393. Blues Brothers (1980) John Landis
+394. Lokator (1976) Roman Polański
+395. Pora umierać (2007) Dorota Kędzierzawska
+396. Blade Runner 2049 (2017) Denis Villeneuve
+397. Powrót (2003) Andriej Zwiagincew
+398. Między piekłem a niebem (1998) Vincent Ward
+399. Hooligans (2005) Lexi Alexander
+400. Sweeney Todd: Demoniczny golibroda z Fleet Street (2007) Tim Burton
+401. Zabójcza broń (1987) Richard Donner
+402. Tam, gdzie rosną poziomki (1957) Ingmar Bergman
+403. 1900: Człowiek legenda (1998) Giuseppe Tornatore
+404. Odlot (2009) Pete Docter, Bob Peterson
+405. Stalker (1979) Andriej Tarkowski
+406. Charlie (2012) Stephen Chbosky
+407. Patriota (2000) Roland Emmerich
+408. Kolor purpury (1985) Steven Spielberg
+409. Madagaskar (2005) Tom McGrath, Eric Darnell
+410. Zakochany kundel (1955) Hamilton Luske, Wilfred Jackson
+411. Zabójczy numer (2006) Paul McGuigan
+412. Millennium: Mężczyźni, którzy nienawidzą kobiet (2009) Niels Arden Oplev
+413. Indiana Jones i Świątynia Zagłady (1984) Steven Spielberg
+414. Poszukiwany, poszukiwana (1972) Stanisław Bareja
+415. Prawdziwa historia (2005) Roger Donaldson
+416. Wejście smoka (1973) Robert Clouse
+417. Las Vegas Parano (1998) Terry Gilliam
+418. Wróg publiczny (1998) Tony Scott
+419. Herkules (1997) John Musker, Ron Clements
+420. Cienka czerwona linia (1998) Terrence Malick
+421. Potwory i spółka (2001) Pete Docter, David Silverman
+422. Casino Royale (2006) Martin Campbell
+423. Zabić drozda (1962) Robert Mulligan
+424. Mulholland Drive (2001) David Lynch
+425. Vabank II, czyli riposta (1984) Juliusz Machulski
+426. Wszystko o mojej matce (1999) Pedro Almodóvar
+427. Popiół i diament (1958) Andrzej Wajda
+428. Metropolis (1927) Fritz Lang
+429. Trzy kolory: Biały (1994) Krzysztof Kieślowski
+430. Tato (1995) Maciej Ślesicki
+431. Zło (2003) Mikael Håfström
+432. Rejs (1970) Marek Piwowski
+433. Dracula (1992) Francis Ford Coppola
+434. Zniewolony. 12 Years a Slave (2013) Steve McQueen
+435. Kanał (1956) Andrzej Wajda
+436. Upiór w operze (2004) Joel Schumacher
+437. Byliśmy żołnierzami (2002) Randall Wallace
+438. Vincent (1982) Tim Burton
+439. Dżentelmeni (2019) Guy Ritchie
+440. Wyspa psów (2018) Wes Anderson
+441. Avengers (2012) Joss Whedon
+442. Co w duszy gra (2020) Pete Docter
+443. Powrót do przyszłości II (1989) Robert Zemeckis
+444. 12 prac Asteriksa (1976) Albert Uderzo, Pierre Watrin
+445. Control (2007) Anton Corbijn
+446. Porozmawiaj z nią (2002) Pedro Almodóvar
+447. Harry Potter i Zakon Feniksa (2007) David Yates
+448. Planeta skarbów (2002) John Musker, Ron Clements
+449. Jeden dzień (2011) Lone Scherfig
+450. Szkoła uczuć (2002) Adam Shankman
+451. Egzorcysta (1973) William Friedkin
+452. Miasto aniołów (1998) Brad Silberling
+453. Skazany na bluesa (2005) Jan Kidawa-Błoński
+454. Pokuta (2007) Joe Wright
+455. Świadek oskarżenia (1957) Billy Wilder
+456. Ukryte działania (2016) Theodore Melfi
+457. Plac Zbawiciela (2006) Krzysztof Krauze, Joanna Kos-Krauze
+458. Strażnicy Galaktyki (2014) James Gunn
+459. Powrót do przyszłości (1985) Robert Zemeckis
+460. Skazaniec (2008) Ric Roman Waugh
+461. Szybcy i wściekli (2001) Rob Cohen
+462. Anastazja (1997) Don Bluth, Gary Goldman
+463. Erin Brockovich (2000) Steven Soderbergh
+464. Zanim się pojawiłeś (2016) Thea Sharrock
+465. Lepiej być nie może (1997) James L. Brooks
+466. V jak Vendetta (2005) James McTeigue
+467. Who Am I. Możesz być kim chcesz (2014) Baran bo Odar
+468. Kolekcjoner kości (1999) Phillip Noyce
+469. Siedmiu wspaniałych (1960) John Sturges
+470. Prosta historia (1999) David Lynch
+471. Idź i patrz (1985) Elem Klimow
+472. Dirty Dancing (1987) Emile Ardolino
+473. Sound of Metal (2019) Darius Marder
+474. Przed wschodem słońca (1995) Richard Linklater
+475. Captain Fantastic (2016) Matt Ross
+476. Czekolada (2000) Lasse Hallström
+477. Bracia (2009) Jim Sheridan
+478. Vaiana: Skarb oceanu (2016) Ron Clements, John Musker
+479. Motyl i skafander (2007) Julian Schnabel
+480. Ostatni król Szkocji (2006) Kevin Macdonald
+481. Pocahontas (1995) Eric Goldberg, Mike Gabriel
+482. Ucieczka z Alcatraz (1979) Don Siegel
+483. Co się wydarzyło w Madison County (1995) Clint Eastwood
+484. Obiecująca. Młoda. Kobieta. (2020) Emerald Fennell
+485. Niech będzie teraz (2012) Ol Parker
+486. Pasja (2004) Mel Gibson
+487. Truman Show (1998) Peter Weir
+488. Przetrwać w Nowym Jorku (1995) Scott Kalvert
+489. Shrek 2 (2004) Andrew Adamson, Kelly Asbury
+490. Spacer po linie (2005) James Mangold
+491. Miłość (2012) Michael Haneke
+492. Sin City - Miasto grzechu (2005) Robert Rodriguez, Frank Miller
+493. Straight Outta Compton (2015) F. Gary Gray
+494. Siedem lat w Tybecie (1997) Jean-Jacques Annaud
+495. Kapitan Ameryka: Wojna bohaterów (2016) Anthony Russo, Joe Russo
+496. Kill Bill 2 (2004) Quentin Tarantino
+497. Gwiazd naszych wina (2014) Josh Boone
+498. Coś (1982) John Carpenter
+499. Toy Story (1995) John Lasseter
+500. Ona (2013) Spike Jonze
